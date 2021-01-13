@@ -8,11 +8,11 @@ This code is the implementation of our ICLR 2021 [paper](https://openreview.net/
 Average testing accuracy of different models on RAVEN and neutral regime of PGM dataset. Aux means auxiliary annotations.
 |Method         | Aux    | Avg   | RAVEN  | PGM   | 
 |---------------|--------|-------|--------|-------|
-| ResNet-18+DRT | &check; | -     |  59.56 |   -   |
-| WReN+Aux      | &check | 55.44 |  33.97 | 76.90 |
-| LEN+Aux       | &check | 70.85 |  59.40 | 82.30 |
-| MXGNet+Aux    | &check |  -    |   -    |**89.60** |
-|  ACL          | &check |  -    | **93.71**|  -  |
+| ResNet-18+DRT | &check;| -     |  59.56 |   -   |
+| WReN+Aux      | &check;| 55.44 |  33.97 | 76.90 |
+| LEN+Aux       | &check;| 70.85 |  59.40 | 82.30 |
+| MXGNet+Aux    | &check;|  -    |   -    |**89.60** |
+|  ACL          | &check;|  -    | **93.71**|  -  |
 | LSTM          |        | 24.44 | 13.07  | 35.80 |
 | CNN           |        | 34.99 | 36.97  | 33.00 |
 | WReN          |        | 40.10 | 17.94  | 62.60 |
