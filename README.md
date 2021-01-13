@@ -1,4 +1,4 @@
-# [Effective Abstract Reasoning with Dual-Contrast Network](https://openreview.net/forum?id=ldxlzGYWDmW)  
+# Effective Abstract Reasoning with Dual-Contrast Network
 Tao Zhuo, Mohan Kankanhalli
 
 This code is the implementation of our ICLR 2021 paper.
