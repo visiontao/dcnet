@@ -21,15 +21,15 @@ Average testing accuracy of different models on RAVEN and neutral regime of PGM 
 | MLRN          |        | 55.33 | 12.50  |**98.03** |
 | LEN           |        | 70.50 | 72.90  | 68.10 |
 | CoPINet       |        | 73.90 | 91.42  | 56.37 |
-| MXGNet        |        | 75.31 | 93.91  | 66.70 |
+| MXGNet        |        | 75.31 | 83.91  | 66.70 |
 | DCNet-RC      |        | 78.10 | 92.74  | 63.45 |
 | DCNet-CC      |        | 47.10 | 36.47  | 57.76 |
 | DCNet         |        |**81.08** | **93.58** | 68.57 |
 
 # Citation
-@inproceedings{zhuo2021,
-    author={Tao Zhuo and Mohan Kankanhalli},
-    title={Effective Abstract Reasoning with Dual-Contrast Network},
-    booktitle={International Conference on Learning Representations (ICLR)},
+@inproceedings{zhuo2021,  
+    author={Tao Zhuo and Mohan Kankanhalli},  
+    title={Effective Abstract Reasoning with Dual-Contrast Network},  
+    booktitle={International Conference on Learning Representations (ICLR)},      
     year={2021}
 }
