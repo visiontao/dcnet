@@ -200,6 +200,4 @@ if __name__ == '__main__':
             f.write('Epoch {:02d}: Accuracy: {:.3f} ({:.3f}, {:.3f}), Loss: ({:.3f}, {:.3f}), Time: {:s}\n'.format(
                 epoch, acc_test, acc_train, acc_val, loss_train, loss_val, time_now))
         f.close() 
-        
-        scheduler.step()
-   
+           
